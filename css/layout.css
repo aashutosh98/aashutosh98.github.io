@@ -5,6 +5,9 @@
   text-align:center;
 }
 
+input[type=button]{
+  cursor:pointer;
+}
  
 th{
   background-color:rgba(47,191,247,.6);
