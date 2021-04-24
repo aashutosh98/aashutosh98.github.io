@@ -4,6 +4,13 @@
   font-family:Calibri;
   text-align:center;
 }
+input[type=button]{
+  cursor:pointer;
+}
+
+input[type=button]:hover{
+  background-color:rgba(47,191,247,.1);
+}
 
 th{
   background-color:rgba(47,191,247,.6);
