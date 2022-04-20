@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "muli", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    margin: 0;
+    list-style: none;
+    padding: 0
+}
+
+*{
+  font-family:Calibri;
+  text-align:center;
+}
+
+
+
+
+
+th{
+  background-color:rgba(47,191,247,.6);
+  
+  
+}
+body{
+  float:center;
+  background-color:rgba(47,191,247,.4)
+}
+
+table{
+  margin-left:auto;
+  margin-right:auto;
+  border-collapse:collapse;
+  width:50%;
+  text-align:center;
+  
+}
+
+td,th{
+  border:1px,solid;
+  text-align:left;
+  padding:8px;
+}
+
+tr:nth-child(odd){
+  background-color:rgba(47,191,247,.4);
+}
+
+input[type=button]
+{
+  cursor:pointer;
+  padding:8px;
+  border-radius:10px;
+  border:none;
+  
+}
+
+input[type=button]:hover
+{
+ background-color:rgba(47,191,247,.1);
+  
+}
